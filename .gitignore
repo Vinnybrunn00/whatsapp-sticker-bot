@@ -1,0 +1,25 @@
+
+package-lock.json
+
+voice/voice.mp3
+video/download.mp4
+test/test.js
+teste.js
+bot-clash.js
+tests
+test.js
+tester.js
+/test
+package.json
+
+logs/logfile.log
+
+node_modules
+
+BOT.data.json
+
+# managed by open-wa
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed by open-wa
