@@ -12,8 +12,6 @@ tester.js
 /test
 package.json
 
-logs/logfile.log
-
 node_modules
 
 BOT.data.json
